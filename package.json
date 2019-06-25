@@ -1,0 +1,13 @@
+{
+  "name": "points",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^0.8.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "dev": "parcel --no-cache index.html"
+  }
+}
